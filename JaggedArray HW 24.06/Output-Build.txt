@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: JaggedArray HW 24.06, Configuration: Debug Any CPU ------
+1>C:\Users\rayro\source\repos\JaggedArray HW 24.06\JaggedArray HW 24.06\Program.cs(40,86,40,86): error CS1733: Expected expression
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

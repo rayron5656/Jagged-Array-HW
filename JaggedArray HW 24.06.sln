@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArray HW 24.06", "JaggedArray HW 24.06\JaggedArray HW 24.06.csproj", "{1141EA04-C604-4C3A-A169-7B743AD70B78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24.06 class", "..\24.06 class\24.06 class\24.06 class.csproj", "{46D6A4C0-9936-4450-A211-DD1E0A72956E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1141EA04-C604-4C3A-A169-7B743AD70B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1141EA04-C604-4C3A-A169-7B743AD70B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1141EA04-C604-4C3A-A169-7B743AD70B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1141EA04-C604-4C3A-A169-7B743AD70B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D6A4C0-9936-4450-A211-DD1E0A72956E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D6A4C0-9936-4450-A211-DD1E0A72956E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D6A4C0-9936-4450-A211-DD1E0A72956E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D6A4C0-9936-4450-A211-DD1E0A72956E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B07791F0-BA1A-4F6A-947B-17466F4183F4}
+	EndGlobalSection
+EndGlobal
